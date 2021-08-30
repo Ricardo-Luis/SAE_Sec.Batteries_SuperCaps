@@ -1,2 +1,2 @@
 
-[My cool notebook.jl](https://github.com/Ricardo-Luis/SAE_Sec.Batteries_SuperCaps/blob/main/My%20cool%20notebook.jl)
+[My cool notebook](https://juliapluto.github.io/static-export-template/My%20cool%20notebook.html)
